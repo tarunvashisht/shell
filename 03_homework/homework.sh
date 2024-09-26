@@ -17,9 +17,9 @@
 # 5. How would you append to one of the existing files " and machine learning!"?
 
 # 6. How would you verify that the text was indeed appended to the existing file?
-
+less ./dir1/file1.txt
 # 7. How would you delete all files except for the one with the appended text?
-
+rm ./dir2/file2.txt ./dir3/file3.txt ./dir4/file4.txt ./dir5/file5.txt
 # 8. How would you navigate back to the parent directory containing all the directories?
 
 # 9. How would you remove each directory along with its contents?
