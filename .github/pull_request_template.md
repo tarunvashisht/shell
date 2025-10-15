@@ -1,3 +1,5 @@
+<!-- PULL REQUEST TITLE: UofT-DSI | <Module Name> - Assignment <assignment number>-->
+
 ## What changes are you trying to make? (e.g. Adding or removing code, refactoring existing code, adding reports)
 
 ## What did you learn from the changes you have made?
@@ -9,9 +11,6 @@
 ## How were these changes tested?
 
 ## A reference to a related issue in your repository (if applicable)
-
-## @mentions of the person or team responsible for reviewing proposed changes (At least 2 people)
-- 
 
 ## Checklist
 - [ ] I can confirm that my changes are working as intended
